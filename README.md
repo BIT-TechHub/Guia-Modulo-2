@@ -29,8 +29,10 @@ Para trabajar con este repositorio, necesitarás:
 
 Para ejecutar el proyecto, instala las siguientes dependencias en tu entorno local:
 
-```sh
-npm install express dotenv mongoose cors nodemon bcryptjs jsonwebtoken
+    ```sh
+    npm install express dotenv mongoose cors nodemon bcryptjs jsonwebtoken
+
+
 ## 📌 Dependencias Explicadas
 
 | Dependencia   | Descripción |
